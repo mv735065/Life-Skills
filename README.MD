@@ -3,7 +3,7 @@
 It' s the  process of **collecting , storing , managing and analyzing**  large volumes of data from multiple sources stored in single repository and used for reporting and analysis . 
 
     The primary objective is to store and analysis of all the past data and records of the company, which can further   
-increase the understanding or analysis of data for the company.
+    increase the understanding or analysis of data for the company.
 
 + Integrate data from multiple sources into a single database and data model .
 + Restructure the data so that it makes sense to the business users .
